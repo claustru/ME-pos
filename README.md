@@ -6,6 +6,9 @@ Ementa do curso de modelagem estatística para o programa de pós-graduação EM
 
 [Aula 25/Set:](https://fgvbr-my.sharepoint.com/:f:/g/personal/claudio_struchiner_fgv_br/Ei2mUDuM5xNKhqGBY3eg-3sBN8KNbgQ8gkVjJEpk4es7WA?e=AUelg0)
 
+Seminário 1: [Daniel](https://fgvbr-my.sharepoint.com/:b:/g/personal/claudio_struchiner_fgv_br/EfHyPAf3vu5EjLamsRZHQrEBJ4cioUTN-Wd_7-sdcSwyzA?e=qBHLHo)
+             [Rogério](https://fgvbr-my.sharepoint.com/:b:/g/personal/claudio_struchiner_fgv_br/ESyGGhZCXdRDnyaYPU2NDF0Bx7-p4i7RyiYxUarfsk4e6w?e=GFxgaG)
+
 #### Slides (duração de 10 dias)
 [Aula 18/Set:](https://fgvbr-my.sharepoint.com/:f:/g/personal/claudio_struchiner_fgv_br/EvsVJ-FJi2hErgWKL-HzMfIBbrIAdWRb_bSxCZjnYkFTGQ?e=zveSlZ)
 
