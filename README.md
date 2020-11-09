@@ -2,15 +2,13 @@
 Ementa do curso de modelagem estatística para o programa de pós-graduação EMAp pode ser encontrada [aqui](https://github.com/claustru/ME-pos/blob/master/Docs/EmentaModelagemEstatisticaMestradoClaudioStruchiner.pdf).
 
 #### Links para os vídeos das aulas (duração de 10 dias)
-[Aulas:](https://fgvbr-my.sharepoint.com/:f:/g/personal/claudio_struchiner_fgv_br/EnTr_IefGZFNl7Aa9fifbk0BZMlrqLzTVGJND9cqBo4OfQ?e=doOlDD)
+[Aulas:](https://fgvbr-my.sharepoint.com/:f:/g/personal/claudio_struchiner_fgv_br/EnTr_IefGZFNl7Aa9fifbk0BZMlrqLzTVGJND9cqBo4OfQ?e=ytZSdN)
 
 Seminário 1: [Daniel](https://fgvbr-my.sharepoint.com/:b:/g/personal/claudio_struchiner_fgv_br/EfHyPAf3vu5EjLamsRZHQrEBJ4cioUTN-Wd_7-sdcSwyzA?e=qBHLHo)
              [Rogério](https://fgvbr-my.sharepoint.com/:b:/g/personal/claudio_struchiner_fgv_br/ESyGGhZCXdRDnyaYPU2NDF0Bx7-p4i7RyiYxUarfsk4e6w?e=GFxgaG)
 
 #### Slides (duração de 10 dias)
-[Aula 18/Set:](https://fgvbr-my.sharepoint.com/:f:/g/personal/claudio_struchiner_fgv_br/EvsVJ-FJi2hErgWKL-HzMfIBbrIAdWRb_bSxCZjnYkFTGQ?e=zveSlZ)
-
-[Aula 02/Out:](https://fgvbr-my.sharepoint.com/:f:/g/personal/claudio_struchiner_fgv_br/EklvxAqIpAZNgjTiXixadNIBL6a2IgU1EimHI5PKfQeEZQ?e=UZDPVa)
+[Slides:](https://fgvbr-my.sharepoint.com/:f:/g/personal/claudio_struchiner_fgv_br/EuGf_Gx02I9CjMvdsoikDhIBrZNeIS7RKFTOfQsJX0-puw?e=glb6zQ)
 
 #### Material adicional citado durante a aula
 
