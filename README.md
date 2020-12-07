@@ -10,6 +10,13 @@ Seminário 1: [Daniel](https://fgvbr-my.sharepoint.com/:b:/g/personal/claudio_st
 #### Slides (duração de 10 dias)
 [Slides:](https://fgvbr-my.sharepoint.com/:f:/g/personal/claudio_struchiner_fgv_br/EuGf_Gx02I9CjMvdsoikDhIBrZNeIS7RKFTOfQsJX0-puw?e=glb6zQ)
 
+[aula 27/Novembro](https://fgv-br.zoom.us/rec/share/9QMnxVd_537rPbyImqTDsLruv1eKsZyKXvrVopCUfvLdgGQCf9reisnJbBlyRs2G.ss1PLZjstME0khXz) 
+Passcode: !0*p=jAr
+
+[aula 4/Dezembro](https://fgv-br.zoom.us/rec/share/U7u1aIXoXDI5jw9hxDzVAKPsN8pwyEDn0LxIOl6YGc96eySmyZw1wkLGZyHWAGTS.LxYLtSTwRvhMNwqy) 
+Passcode: =4W&WvSY
+
+
 #### Material adicional citado durante a aula
 
 Aula 18/Set: Realismo, Precisão e generalidade - [Levins, 1966](https://www.jstor.org/stable/pdf/27836590.pdf?casa_token=7tSi2uV0FvMAAAAA:pOA0tm3YnGbEgyv6GWFHQp0skImzirrSRkOznEPGnrhh8ATBAXMC9GTOuIkUWLw55pGTz4dX6SEdCJmW546H7aNyEvgSAo58uphzbEXPLUf029BaaQQzhA), [Orzack & Sober, 1993](https://www.jstor.org/stable/pdf/3037250.pdf) e [Levins, 1993](https://www.jstor.org/stable/pdf/3037251.pdf)
