@@ -8,13 +8,7 @@ Seminário 1: [Daniel](https://fgvbr-my.sharepoint.com/:b:/g/personal/claudio_st
              [Rogério](https://fgvbr-my.sharepoint.com/:b:/g/personal/claudio_struchiner_fgv_br/ESyGGhZCXdRDnyaYPU2NDF0Bx7-p4i7RyiYxUarfsk4e6w?e=GFxgaG)
 
 #### Slides (duração de 10 dias)
-[Slides:](https://fgvbr-my.sharepoint.com/:f:/g/personal/claudio_struchiner_fgv_br/EuGf_Gx02I9CjMvdsoikDhIBrZNeIS7RKFTOfQsJX0-puw?e=glb6zQ)
-
-[aula 27/Novembro](https://fgv-br.zoom.us/rec/share/9QMnxVd_537rPbyImqTDsLruv1eKsZyKXvrVopCUfvLdgGQCf9reisnJbBlyRs2G.ss1PLZjstME0khXz) 
-Passcode: !0*p=jAr
-
-[aula 4/Dezembro](https://fgv-br.zoom.us/rec/share/U7u1aIXoXDI5jw9hxDzVAKPsN8pwyEDn0LxIOl6YGc96eySmyZw1wkLGZyHWAGTS.LxYLtSTwRvhMNwqy) 
-Passcode: =4W&WvSY
+[Slides:](https://fgvbr-my.sharepoint.com/:f:/g/personal/claudio_struchiner_fgv_br/EnTr_IefGZFNl7Aa9fifbk0BZMlrqLzTVGJND9cqBo4OfQ?e=X5QJaI)
 
 
 #### Material adicional citado durante a aula
